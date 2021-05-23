@@ -4,7 +4,6 @@ You can use the [editor on GitHub](https://github.com/gayun2da/gayun2da.github.i
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-**이미지**는
 ![아무이미지나](https://user-images.githubusercontent.com/70933909/119264836-af8a0c00-bc1f-11eb-8ddc-7c892b7e7a7f.png)
 
 
@@ -32,17 +31,12 @@ Syntax highlighted code block
 2. 두번째
 3. 세번째
 
-### 빨간글씨 !
-
 - Bulleted
 - List
 
-1. Numbered
-2. List
+### 잇몸에 피나는 진효가 알려준 ..
+체크박스 !
 
-# 잇몸에 피나는 진효가 알려준 ..
-
-나는 ㅁㅁ이다
 + [x] 기윤
 + [ ] 가윤
 
@@ -71,7 +65,7 @@ void main(){
 }
 ```
 
-이렇게 하면 코드별 편집도 가능하고
+이렇게 하면 코드별 편집도 가능하다고 ~~ ~ ! 🙄
 ```cpp
 #include <iostream>
 
@@ -84,14 +78,16 @@ void main(){
 
 
 > 표는 어케 만들어요?!?!?
-기억이.. 안나용... 찾아볼게용
+내가 어케 알아 ><>
 
 > 링크랑 이미지는 이렇게 걸어보기 ! 😊
 
-**링크**는
+**링크** : 
 [네이버](https://www.naver.com/)
 
-요즘 피라미드 게임보기.. 히히 [피라미드 게임 링크!](https://comic.naver.com/webtoon/list.nhn?titleId=739127&weekday=sat)
+요즘 피라미드 게임본다.. 히히 [피라미드 게임 링크!](https://comic.naver.com/webtoon/list.nhn?titleId=739127&weekday=sat)
+
+#이미지 넣는 법 너무 쉽다 ! ~ 😌😛
 
 **한별이네 학교 경치** 넘 넘 이쁘고 ~ ㅋ. ㅋ
 ![아무이미지나](https://user-images.githubusercontent.com/70933909/119264519-85841a00-bc1e-11eb-978b-7fd90893eeec.jpg)
