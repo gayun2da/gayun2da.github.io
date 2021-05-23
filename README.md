@@ -20,7 +20,7 @@ Syntax highlighted code block
 
 # 대충 작물
 
-- _강원도 감자_
+- 강원도 감자
 - 군고구마
 - 바나나 알러지 원숭이
 - 내가 좋아하는 딸기
@@ -32,7 +32,7 @@ Syntax highlighted code block
 2. 두번째
 3. 세번째
 
-### 빨간글씨?
+### 빨간글씨 !
 
 - Bulleted
 - List
@@ -40,24 +40,26 @@ Syntax highlighted code block
 1. Numbered
 2. List
 
-Bold and Italic and Code text
-글씨 편집은 어떻게 하나요?
+# 잇몸에 피나는 진효가 알려준 ..
 
 나는 ㅁㅁ이다
-+ [ ] 기윤
++ [x] 기윤
 + [ ] 가윤
- 
+
+Bold and Italic and Code text
+글씨 편집 하는 법!
 
 굵게는 **이렇게**
 기울기는 _이렇게_
 *이렇게도* 할 수 있고
 이렇게 ~~그을 수도~~ 있고
 
-코드는 어떻게 쓰나요?
+코드 쓰는 법! 😀
 
-`한 줄은 이렇게`
+`한 줄은 이렇게` 
+`cout << "Hello, World!";`
 
-여러 줄은 
+여러 줄은 ?
 
 ```
 #include <iostream>
@@ -84,14 +86,14 @@ void main(){
 > 표는 어케 만들어요?!?!?
 기억이.. 안나용... 찾아볼게용
 
-> 링크랑 이미지는 어케 걸어보기 ! 😊
+> 링크랑 이미지는 이렇게 걸어보기 ! 😊
 
 **링크**는
 [네이버](https://www.naver.com/)
 
-요즘 피라미드 게임에 푹 빠졌어요 .. [피라미드 게임 링크!](https://comic.naver.com/webtoon/list.nhn?titleId=739127&weekday=sat)
+요즘 피라미드 게임보기.. 히히 [피라미드 게임 링크!](https://comic.naver.com/webtoon/list.nhn?titleId=739127&weekday=sat)
 
-**한별이네 학교 경치** 넘 넘 이쁘죠 ㅜ.ㅜ
+**한별이네 학교 경치** 넘 넘 이쁘고 ~ ㅋ. ㅋ
 ![아무이미지나](https://user-images.githubusercontent.com/70933909/119264519-85841a00-bc1e-11eb-978b-7fd90893eeec.jpg)
 
 
