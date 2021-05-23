@@ -65,7 +65,7 @@ void main(){
 
 이렇게 하면 코드별 편집도 가능하고
 ```cpp
-    #include <iostream>
+#include <iostream>
 
 using namespace std;
 
