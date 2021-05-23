@@ -20,7 +20,7 @@ Syntax highlighted code block
 
 # 대충 작물
 
-- 강원도 감자
+- _강원도 감자_
 - 군고구마
 - 바나나 알러지 원숭이
 - 내가 좋아하는 딸기
@@ -42,6 +42,11 @@ Syntax highlighted code block
 
 Bold and Italic and Code text
 글씨 편집은 어떻게 하나요?
+
+나는 ㅁㅁ이다
+[ ] 기윤
+[ ] 가윤
+ 
 
 굵게는 **이렇게**
 기울기는 _이렇게_
