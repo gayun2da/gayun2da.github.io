@@ -84,6 +84,8 @@ void main(){
 **링크**는
 [네이버](https://www.naver.com/)
 
+요즘 피라미드 게임에 푹 빠졌어요 .. [피라미드 게임 링크!](https://comic.naver.com/webtoon/list.nhn?titleId=739127&weekday=sat)
+
 **이미지**는
 ![아무이미지나](https://user-images.githubusercontent.com/70933909/119264519-85841a00-bc1e-11eb-978b-7fd90893eeec.jpg)
 
