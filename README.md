@@ -4,6 +4,12 @@ You can use the [editor on GitHub](https://github.com/gayun2da/gayun2da.github.i
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+**이미지**는
+![아무이미지나](https://user-images.githubusercontent.com/70933909/119264519-85841a00-bc1e-11eb-978b-7fd90893eeec.jpg)
+
+# 안녕하세요 반갑습니다
+김가윤입니다.
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
@@ -78,7 +84,7 @@ void main(){
 [네이버](https://www.naver.com/)
 
 **이미지**는
-![아무이미지나](https://user-images.githubusercontent.com/64322691/119262369-ea874200-bc15-11eb-9706-24674f706f80.png)
+![아무이미지나](https://user-images.githubusercontent.com/70933909/119264519-85841a00-bc1e-11eb-978b-7fd90893eeec.jpg)
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
