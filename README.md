@@ -5,7 +5,8 @@ You can use the [editor on GitHub](https://github.com/gayun2da/gayun2da.github.i
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 **이미지**는
-![아무이미지나](https://user-images.githubusercontent.com/70933909/119264519-85841a00-bc1e-11eb-978b-7fd90893eeec.jpg)
+![아무이미지나](https://user-images.githubusercontent.com/70933909/119264836-af8a0c00-bc1f-11eb-8ddc-7c892b7e7a7f.png)
+
 
 # 안녕하세요 반갑습니다
 김가윤입니다.
