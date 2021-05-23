@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+# Gayun's Profile
 
 You can use the [editor on GitHub](https://github.com/gayun2da/gayun2da.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
