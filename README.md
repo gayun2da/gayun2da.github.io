@@ -34,11 +34,18 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ## 01 두 문단 사이의 빈 줄
 문단과 문단 사이 빈 줄은 엔터키 두 번으로 표현해줍니다.
+
 ```
 문단과
 
 문단 사이 !
 ```
+### 결과는
+문단과
+
+문단 사이 !
+
+이렇게 뜹니다 와아 ~
 <br>
 
 ## 02 제목 적는 방법
