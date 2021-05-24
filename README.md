@@ -117,7 +117,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 - 선웅
   - 서누
     - 선오
-    ```
+```
 
 * 커비
   * 서놈
@@ -138,6 +138,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
   -서누
     +선호
       *선우
+      
 ```
 + 서노
   -서누
