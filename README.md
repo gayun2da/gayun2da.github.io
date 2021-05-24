@@ -23,13 +23,28 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ###### 제목 6
 
 
-그리고 플러스로 ..
-
-제목 1
+이렇게
 ======
 
-제목 2
+얍얍
 ------
+
+```
+제목 적는 법 되게 많아유
+# 제목 1
+## 제목 2
+### 제목 3
+#### 제목 4
+##### 제목 5
+###### 제목 6
+
+
+이렇게
+======
+
+얍얍
+------
+```
 
 신기하죠 !! 🤓
 
@@ -92,14 +107,13 @@ void main(){
 > 표는 어케 만들어요?!?!?
 내가 어케 알아 ><>
 
-> 링크랑 이미지는 이렇게 걸어보기 ! 😊
-
+## 링크랑 이미지는 이렇게 걸어보기 ! 😊
 **링크** : 
 [네이버](https://www.naver.com/)
 
 요즘 피라미드 게임본다.. 히히 [피라미드 게임 링크!](https://comic.naver.com/webtoon/list.nhn?titleId=739127&weekday=sat)
 
-#이미지 넣는 법 너무 쉽다 ! ~ 😌😛
+# 이미지 넣는 법 너무 쉽다 ! ~ 😌😛
 
 **한별이네 학교 경치** 넘 넘 이쁘고 ~ ㅋ. ㅋ
 ![아무이미지나](https://user-images.githubusercontent.com/70933909/119264519-85841a00-bc1e-11eb-978b-7fd90893eeec.jpg)
