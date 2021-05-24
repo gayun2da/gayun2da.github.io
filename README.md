@@ -183,13 +183,23 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 그리고 꿀팁으로 ...
 ### 멋쟁이 진효가 알려준 ..
-#### 05 체크박스 만들기!
+## 05 체크박스 만들기!
 
-+ [x] 기윤
++ [ ] 기윤
 + [ ] 가윤
 
 ```
-+ [x] 기윤
++ [ ] 기윤
++ [ ] 가윤
+```
+
+네모 칸에 체크 표시 하는 방법은 대괄호 안에 알파벳 x 넣기! <span style="color:teal">(x,X 대소문자 관계 없어요!)</span>
+
++ [X] 기윤
++ [ ] 가윤
+
+```
++ [X] 기윤
 + [ ] 가윤
 ```
 
