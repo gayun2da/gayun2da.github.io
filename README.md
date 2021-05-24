@@ -74,7 +74,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 <br>
 
-## 02 제목 적는 방법 !
+## 03 제목 적는 방법 !
 
 ```
 # 제목 01
@@ -110,7 +110,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 <br>
 
-## 03 목록 작성 방법
+## 04 목록 작성 방법
 
 ### - 순서 리스트 작성법
 ```
@@ -183,7 +183,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 그리고 꿀팁으로 ...
 ### 멋쟁이 진효가 알려준 ..
-#### 체크박스 만들기!
+#### 05 체크박스 만들기!
 
 + [x] 기윤
 + [ ] 가윤
@@ -196,7 +196,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 아쉽게도 마우스로 클릭은 안된다고 해요.. 🙄
 <br>
 
-## 글씨 강조 하는 법!
+## 06 글씨 강조 하는 법!
 
 #### 1. 볼드체
 + **첫 번째 방법**
@@ -223,20 +223,22 @@ _두 번째 방법_
 ~~이소은 바보~~
 ```
 
-### 그리고 이건 꿀팁 ! 이탤릭체랑 볼드체를 중복 사용할 수있어요 !!!
-**_짜잔~_ 신기하죠!**
+### 그리고 이건 꿀팁 ! 이탤릭체, 볼드체와 취소선 모두 중복 사용할 수있어요 !!!
+**_~짜잔~_ 신기하죠!**
 
 ```
-**_짜잔~_ 신기하죠!**
+**_~짜잔~_ 신기하죠!**
 ```
+#### 4. 밑줄
+
+#### 5. 글씨 색상
+
 <br>
+
 
 <span style="color:red">붉은 색</span>
 <span style="color:blue">파란 색</span>
 
-줄바꿈은 문장 뒤에 공백을 두 번 추가하거나  
-`<br>` 을 써 주는 방식이 있어요 !
-<br>
 
 ## 코드 쓰는 법! 😀
 
