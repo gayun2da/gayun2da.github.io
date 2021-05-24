@@ -20,7 +20,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### 제목 3
 #### 제목 4
 ##### 제목 5
-###### 제목 6  
+###### 제목 6
+<br>
 
 
 이렇게
@@ -63,7 +64,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 3. 세번째
 
 ### 잇몸에 피나는 진효가 알려준 ..
-체크박스 !
+#### 체크박스 !
 
 + [x] 기윤
 + [ ] 가윤
