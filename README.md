@@ -28,7 +28,17 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 등등이 있겠습니다 :)
 
 
-###### 제일 먼저, 제목(HEADER) 적는 법 알아보도록 할가요 ~ ~ !
+#### 이제 마크다운의 문법들에 대해 알아볼 차례입니다. 
+
+
+## 두 문단 사이의 빈 줄
+문단과 문단 사이 빈 줄은 엔터키 두 번으로 표현해줍니다.
+```
+문단과
+
+문단 사이 !
+```
+<br>
 
 ## 01 제목 적는 방법
 
@@ -106,7 +116,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 *이렇게도* 할 수 있고
 이렇게 ~~그을 수도~~ 있대요
 
-### 근데 이텔릭체랑 글씨 두껍게 같이 사용할 수있대요 !!!
+### 근데 이탤릭체랑 글씨 두껍게를 중복 사용할 수있어요 !!!
 **_짜잔_ 신기하죠!**  
 <br>
 
