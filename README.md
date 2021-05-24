@@ -46,7 +46,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 틱톡 그만 보고 공부하자 🔪
 
-이렇게 나온답니다 와아 ~ 신기해라 😊
+##### 이렇게 나온답니다 와아 ~ 신기해라 😊
 <br>
 
 ## 02 줄바꿈
@@ -71,6 +71,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 너무 배고파요 ㅠ. ㅠ  <br>  마라탕이 먹고싶다..!
 
 `<br>은 줄바꿈해주는 HTML 태그입니다 !`
+
+<br>
 
 ## 02 제목 적는 방법 !
 
@@ -103,7 +105,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 얍얍
 ------
-
+  
 신기하죠 !! 🤓
 
 <br>
