@@ -10,7 +10,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 # 안녕하세요 방가루 ~ ^.^
 김가윤입니다. 💨
 
-마크다운 마스터 되어볼게요 😏
+마크다운 마스터 되어볼게요 😏  
 
 #### 제일 먼저, 제목 적는 법 알아보도록 할가요 ~ ~ !
 
@@ -20,7 +20,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### 제목 3
 #### 제목 4
 ##### 제목 5
-###### 제목 6
+###### 제목 6  
 
 
 이렇게
@@ -36,7 +36,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### 제목 3
 #### 제목 4
 ##### 제목 5
-###### 제목 6
+###### 제목 6  
 
 
 이렇게
@@ -46,7 +46,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ------
 ```
 
-신기하죠 !! 🤓
+신기하죠 !! 🤓  
 
 ## 작물
 
@@ -76,7 +76,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 이렇게 ~~그을 수도~~ 있대요
 
 ### 근데 이텔릭체랑 글씨 두껍게 같이 사용할 수있대요 !!!
-**_짜잔_ 신기하죠!**
+**_짜잔_ 신기하죠!**  
 
 ## 코드 쓰는 법! 😀
 
@@ -104,17 +104,18 @@ using namespace std;
 void main(){
     cout << "HelloWorld" << endl;
 }
-```
+```  
 
 
 > 표는 어케 만들어요?!?!?
-내가 어케 알아 ><>  
+내가 어케 알아 ><>    
 
 ## 링크랑 이미지는 이렇게 걸어보기 ! 😊
 **링크** : 
 [네이버](https://www.naver.com/)
 
 요즘 피라미드 게임본다.. 히히 [피라미드 게임 링크!](https://comic.naver.com/webtoon/list.nhn?titleId=739127&weekday=sat)  
+  
 
 # 이미지 넣는 법 너무 쉽다 ! ~ 😌😛
 
