@@ -10,38 +10,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 # 안녕하세요 방가루 ~ ^.^
 김가윤입니다. 💨
 
-### Markdown
+마크다운 마스터 되어볼게요 😏
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-Syntax highlighted code block
-
-
-# 대충 작물
-
-- 강원도 감자
-- 군고구마
-- 바나나 알러지 원숭이
-- 내가 좋아하는 딸기
-- 하나더!
-
-# 대충 순서매기기
-
-1. 첫번째
-2. 두번째
-3. 세번째
-
-- Bulleted
-- List
-
-### 잇몸에 피나는 진효가 알려준 ..
-체크박스 !
-
-+ [x] 기윤
-+ [ ] 가윤
-
-Bold and Italic and Code text
-글씨 편집 하는 법!
+#### 제일 먼저, 제목 적는 법 알아보도록 할가요 ~ ~ !
 
 제목 적는 법 되게 많아유
 # 제목 1
@@ -51,12 +22,38 @@ Bold and Italic and Code text
 ##### 제목 5
 ###### 제목 6
 
-그리고 플러스로 ,,
+
+그리고 플러스로 ..
+
 제목 1
 ======
 
 제목 2
 ------
+
+신기하죠 !! 🤓
+
+# 작물
+
+- 강원도 감자
+- 군고구마
+- 바나나 알러지 원숭이
+- 내가 좋아하는 딸기
+- 하나더!
+
+# 순서매겨보기
+
+1. 첫번째
+2. 두번째
+3. 세번째
+
+### 잇몸에 피나는 진효가 알려준 ..
+체크박스 !
+
++ [x] 기윤
++ [ ] 가윤
+
+# 글씨 편집 하는 법!
 
 굵게는 **이렇게**
 기울기는 _이렇게_
