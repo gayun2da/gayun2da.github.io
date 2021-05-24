@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/gayun2da/gayun2da.github.i
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-![아무이미지나](https://user-images.githubusercontent.com/70933909/119264836-af8a0c00-bc1f-11eb-8ddc-7c892b7e7a7f.png)
+![아무이미지나](https://user-images.githubusercontent.com/70933909/119264836-af8a0c00-bc1f-11eb-8ddc-7c892b7e7a7f.png){: width="70%" height="70%"}
 
 
 # 안녕하세요 방가루 ~ ^.^
@@ -29,6 +29,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 
 ##### 이제 마크다운의 문법들에 대해 알아볼 차례입니다. 
+
 <br>
 
 ## 01 두 문단 사이의 빈 줄
@@ -74,7 +75,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 신기하죠 !! 🤓
 <br>
 
-## 03 순서 리스트 작성 방법
+## 03 목록 작성 방법
+
+### - 순서 리스트 작성법
 ```
 1. 첫번째
 2. 두번째
@@ -94,18 +97,67 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 - 내가 좋아하는 딸기
 - 하나더!
 ```
-진짜 간단하죠? 😉
+진짜 간단하죠? 😉 
+
+이번엔 순서 없는 목록 작성 해볼게요 !
+
+### - 숫자 없는 리스트 작성법
 
 
-## 순서매겨보기
+```
+* 커비
+  * 서놈
+    * 선우
 
++ 서노
+  + ㅈ서
+    + 선호
 
+- 선웅
+  - 서누
+    - 선오
+    ```
 
+* 커비
+  * 서놈
+    * 선우
+
++ 서노
+  + ㅈ서
+    + 선호
+
+- 선웅
+  - 서누
+    - 선오
+
+짜잔 🤗
+
+이걸 응용해서
++ 서노
+  -서누
+    +선호
+      *선우
+```
++ 서노
+  -서누
+    +선호
+      *선우
+```
+
+이렇게 사용할 수있겠죠?
+
+그리고 꿀팁으로 ...
 ### 잇몸에 피나는 진효가 알려준 ..
 #### 체크박스 !
 
 + [x] 기윤
 + [ ] 가윤
+```
++ [x] 기윤
++ [ ] 가윤
+```
+
+아쉽게도 마우스로 클릭은 안됩니닷.. 🙄
 
 # 글씨 편집 하는 법!
 
