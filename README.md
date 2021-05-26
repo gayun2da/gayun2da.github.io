@@ -182,7 +182,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 이렇게 섞어서도 사용할 수있겠죠?
 
 그리고 꿀팁으로 ...
-<span style="color:orange">멋쟁이 진효가 알려준 ..!</span>
+멋쟁이 진효가 알려준 ..!
 ## 05 체크박스 만들기!
 
 + [ ] 기윤
@@ -243,16 +243,21 @@ _두 번째 방법_
 <br>
 
 
-<span style="color:red">붉은 색</span>
-<span style="color:blue">파란 색</span>
 
 
-## 코드 쓰는 법! 😀
+## 07 코드블럭 쓰는 법! 😀
 
-`한 줄은 이렇게` 
-`cout << "Hello, World!";`
 
-여러 줄은 ?
+#### 1. 인라인 코드
+
+```
+이것이 `인라인 코드` 이랍니다 ! 
+```
+
+이것이 `인라인 코드` 이랍니다 ! 
+
+
+#### 2. 코드 블록
 
 ```
 #include <iostream>
