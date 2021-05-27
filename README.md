@@ -257,7 +257,32 @@ _두 번째 방법_
 이것이 `인라인 코드` 이랍니다 ! 
 
 
-#### 2. 코드 블록
+#### 2. 코드 블럭
+
+1. 스페이스바 4번 사용
+
+    #include <iostream>
+
+    using namespace std;
+
+    void main(){
+        cout << "HelloWorld" << endl;
+    }
+
+2. ~~~ 사용
+
+~~~
+#include <iostream>
+
+    using namespace std;
+
+    void main(){
+        cout << "HelloWorld" << endl;
+    }
+~~~
+
+3. ``` 사용
+
 
 ```
 #include <iostream>
@@ -269,7 +294,10 @@ void main(){
 }
 ```
 
-이렇게 하면 코드별 편집도 가능하다고 ~~ ~ ! 🙄
+
+
+("```") + 언어를 선언하여 문법강조할 수있어요
+
 ```cpp
 #include <iostream>
 
@@ -285,13 +313,13 @@ void main(){
 
 >이얏 ~~
   > 스페이스바 두 번 누르면 
+
 <br>
 
 ## 링크랑 이미지는 이렇게 걸어보기 ! 😊
 **링크** : 
 [네이버](https://www.naver.com/)
 
-요즘 피라미드 게임본다.. 히히 [피라미드 게임 링크!](https://comic.naver.com/webtoon/list.nhn?titleId=739127&weekday=sat)  
 <br>
 
 # 이미지 넣는 법은.. ! 너무 쉽다 ! ~ 😌😛
