@@ -100,10 +100,10 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ------
 ```
 
-이렇게도 가능
+이렇게 "=", "-" 두 개로도 표현이 가능 하다능 !! ㅋㅋ !!
 ======
 
-얍얍
+얍얍얍 
 ------
   
 신기하죠 !! 🤓
@@ -296,7 +296,7 @@ void main(){
 
 
 
-("```") + 언어를 선언하여 문법강조할 수있어요
+("```") 백틱 뒤에 언어를 써넣으면 글자에 색상이 들어가게됩니다! 보기 훨씬 쉬워지지않았나요 ㅎㅎ
 
 ```cpp
 #include <iostream>
@@ -321,7 +321,11 @@ void main(){
 - - -
 
 ---------------------------------------
+
 ```
+
+결과는 !
+
 
 * * *
 
@@ -339,16 +343,35 @@ void main(){
 
 > 이얏 ~~  
 >> ">" 개수에 따라서
->>> 중첩이 가능해요 
+>>> 중첩이 가능해요 !! 
 
 <br>
 
-## 링크랑 이미지는 이렇게 걸어보기 ! 😊
-**링크** : 
+## 10 링크 넣기!
+
+1. 참조 링크
+
+```
+[link keyword][id]
+
+[id]: URL "Optional Title here"
+```
+
 [네이버](https://www.naver.com/)
 
+[GoogleLink]: https://google.com "Google Link!"
+
 <br>
 
+2. 외부링크
+
+```
+[Title](link)
+```
+
+[Google](https://google.com, "google link")
+
+<br>
 # 이미지 넣는 법은.. ! 너무 쉽다 ! ~ 😌😛
 
 **한별이네 학교 경치** 넘 넘 이쁘고 ~ ㅋ. ㅋ
