@@ -349,32 +349,22 @@ void main(){
 
 ## 10 링크 넣기!
 
-1. 참조 링크
+`[타이틀](주소)` 이렇게 넣으면 되는데용
 
 ```
-[link keyword][id]
-
-[id]: URL "Optional Title here"
+[네이버](https://www.naver.com/)
 ```
 
 [네이버](https://www.naver.com/)
 
-[GoogleLink]: https://google.com "Google Link!"
+짠!
 
 <br>
 
-2. 외부링크
+# 이미지 넣는 법은.. ! 
 
-```
-[Title](link)
-```
+너무 쉽다 ! ~ 😌😛
 
-[Google](https://google.com, "google link")
-
-<br>
-# 이미지 넣는 법은.. ! 너무 쉽다 ! ~ 😌😛
-
-**한별이네 학교 경치** 넘 넘 이쁘고 ~ ㅋ. ㅋ
 ![아무이미지나](https://user-images.githubusercontent.com/70933909/119264519-85841a00-bc1e-11eb-978b-7fd90893eeec.jpg)
 
 
