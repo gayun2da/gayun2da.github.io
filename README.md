@@ -361,7 +361,15 @@ void main(){
 
 <br>
 
-# 이미지 넣는 법은.. ! 
+# 이미지 넣는 법은.. !
+
+```
+![이미지 이름](이미지 파일 이름)
+![we](https://user-images.githubusercontent.com/70933909/120667913-e89c6900-c4c8-11eb-9ac5-e1ef641a74ff.jpg)
+```
+
+![we](https://user-images.githubusercontent.com/70933909/120667913-e89c6900-c4c8-11eb-9ac5-e1ef641a74ff.jpg)
+![roses](https://user-images.githubusercontent.com/70933909/120668055-0ff33600-c4c9-11eb-98fd-e909af0ed387.jpg)
 
 너무 쉽다 ! ~ 😌😛
 
