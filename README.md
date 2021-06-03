@@ -365,11 +365,10 @@ void main(){
 
 ```
 ![이미지 이름](이미지 파일 이름)
-![we](https://user-images.githubusercontent.com/70933909/120667913-e89c6900-c4c8-11eb-9ac5-e1ef641a74ff.jpg)
 ```
 
-![we](https://user-images.githubusercontent.com/70933909/120667913-e89c6900-c4c8-11eb-9ac5-e1ef641a74ff.jpg)
-![roses](https://user-images.githubusercontent.com/70933909/120668055-0ff33600-c4c9-11eb-98fd-e909af0ed387.jpg)
+![KakaoTalk_20201222_223057689](https://user-images.githubusercontent.com/70933909/120668339-5779c200-c4c9-11eb-8ed3-1a519df84e3c.png)
+
 
 너무 쉽다 ! ~ 😌😛
 
