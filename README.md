@@ -363,11 +363,25 @@ void main(){
 
 # 이미지 넣는 법은.. !
 
+![1](https://user-images.githubusercontent.com/70933909/120929789-65c41a00-c725-11eb-9922-b01c6f997068.png)
+
+![2](https://user-images.githubusercontent.com/70933909/120929809-7aa0ad80-c725-11eb-9b73-87e66f140838.png)
+
+![3](https://user-images.githubusercontent.com/70933909/120929811-7bd1da80-c725-11eb-86f9-4c6d458229de.png)
+
+![4](https://user-images.githubusercontent.com/70933909/120929812-7c6a7100-c725-11eb-849b-307c1f6e185d.png)
+
+![5](https://user-images.githubusercontent.com/70933909/120929814-7d9b9e00-c725-11eb-89e0-22c3c32fd904.png)
+
+![6](https://user-images.githubusercontent.com/70933909/120929817-7e343480-c725-11eb-96b0-df83c3ba7846.png)
+
+
 ```
 ![이미지 이름](이미지 파일 이름)
 
 ![KakaoTalk_20201222_223057689](https://user-images.githubusercontent.com/70933909/120668339-5779c200-c4c9-11eb-8ed3-1a519df84e3c.png)
 ```
+결과는??
 
 ![KakaoTalk_20201222_223057689](https://user-images.githubusercontent.com/70933909/120668339-5779c200-c4c9-11eb-8ed3-1a519df84e3c.png)
 
