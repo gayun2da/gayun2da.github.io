@@ -363,11 +363,19 @@ void main(){
 
 # 이미지 넣는 법은.. !
 
+먼저 깃허브 프로필에 들어가주세요!
+
 ![1](https://user-images.githubusercontent.com/70933909/120929789-65c41a00-c725-11eb-9922-b01c6f997068.png)
+
+Repositories 누르기
 
 ![2](https://user-images.githubusercontent.com/70933909/120929809-7aa0ad80-c725-11eb-9b73-87e66f140838.png)
 
+아무 프로젝트나 들어가줍니다
+
 ![3](https://user-images.githubusercontent.com/70933909/120929811-7bd1da80-c725-11eb-86f9-4c6d458229de.png)
+
+
 
 ![4](https://user-images.githubusercontent.com/70933909/120929812-7c6a7100-c725-11eb-849b-307c1f6e185d.png)
 
