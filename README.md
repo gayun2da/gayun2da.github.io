@@ -375,14 +375,19 @@ Repositories 누르기
 
 ![3](https://user-images.githubusercontent.com/70933909/120929811-7bd1da80-c725-11eb-86f9-4c6d458229de.png)
 
-
+issues 들어가 줍시당
 
 ![4](https://user-images.githubusercontent.com/70933909/120929812-7c6a7100-c725-11eb-849b-307c1f6e185d.png)
 
+new issue 생성!
+
 ![5](https://user-images.githubusercontent.com/70933909/120929814-7d9b9e00-c725-11eb-89e0-22c3c32fd904.png)
+
+코멘트 적는 란에 이미지를 드래그 해줘요
 
 ![6](https://user-images.githubusercontent.com/70933909/120929817-7e343480-c725-11eb-96b0-df83c3ba7846.png)
 
+그럼 이렇게 이미지와 이미지 파일 이름이 나오는데 이걸 그대로 복붙하면 이미지가 업로드 됩니다!
 
 ```
 ![이미지 이름](이미지 파일 이름)
