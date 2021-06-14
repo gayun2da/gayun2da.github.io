@@ -405,6 +405,9 @@ new issue 생성!
 
 잘 나오네요 :)
 
+
+# 12 Table 만드는 법
+
 ![아무이미지나](https://user-images.githubusercontent.com/70933909/119264519-85841a00-bc1e-11eb-978b-7fd90893eeec.jpg)
 
 
